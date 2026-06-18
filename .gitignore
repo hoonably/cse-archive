@@ -1,0 +1,24 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# C/C++
+*.o
+*.out
+
+# Node
+node_modules/
+dist/
+build/
+
+# Xcode / Swift
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+
+# CocoaPods
+Pods/

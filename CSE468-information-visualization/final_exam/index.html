@@ -1,0 +1,36 @@
+<!-- Don't edit code here! -->
+<!-- Dropdown Code: https://www.w3schools.com/howto/howto_js_filter_dropdown.asp -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+    <title>D3 Line Chart</title>
+</head>
+
+<body>
+
+
+    <div id="linechartanddropdown">
+        <div id="linechart"></div>
+        <div class="dropdown">
+            <button onclick="toggleDropdown()" class="dropbtn">Dropdown</button>
+            <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+            <div id="myDropdown" class="dropdown-content">
+            </div>
+        </div>
+
+    </div>
+    <div id="linebrush"></div>
+
+
+
+
+
+    <script src="js/linechart.js"></script>
+    <script src="js/linebrush.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

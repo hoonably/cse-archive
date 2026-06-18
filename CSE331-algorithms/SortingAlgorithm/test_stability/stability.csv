@@ -1,0 +1,13 @@
+algorithm,stability
+merge_sort,Stable
+heap_sort,Unstable
+bubble_sort,Stable
+insertion_sort,Stable
+selection_sort,Unstable
+quick_sort,Unstable
+library_sort,Unstable
+cocktail_shaker_sort,Stable
+tim_sort,Stable
+comb_sort,Unstable
+tournament_sort,Stable
+intro_sort,Unstable

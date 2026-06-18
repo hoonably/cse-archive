@@ -1,0 +1,29 @@
+NAME : weird20
+COMMENT : Algorithm MST
+COMMENT : Length 631 
+COMMENT : Elapsed time 0.000021 seconds
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+1
+14
+8
+12
+2
+6
+13
+11
+7
+15
+19
+17
+3
+5
+18
+9
+4
+20
+16
+10
+1
+EOF

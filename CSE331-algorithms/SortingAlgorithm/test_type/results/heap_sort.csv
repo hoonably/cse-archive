@@ -1,0 +1,5 @@
+algorithm,type,time_sec,accuracy
+heap_sort,int,0.081714,1.0
+heap_sort,long long,0.0900029,1.0
+heap_sort,float,0.1005336,1.0
+heap_sort,double,0.1064799,1.0

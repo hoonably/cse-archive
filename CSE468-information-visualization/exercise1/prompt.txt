@@ -1,0 +1,35 @@
+20201118 Jeonghoon Park
+
+Basic Prompts
+
+"Help me preprocess this Chocolate Sales Dataset from Kaggle. I need to:
+1. Load the CSV data using d3.csv()
+2. Parse dates and convert sales values to numbers
+3. Group sales by product category and month
+4. Calculate the total sales for each category"
+
+"Design a D3.js visualization for chocolate sales data that:
+1. Creates a stacked bar chart showing monthly sales
+2. Uses different colors for each chocolate category
+3. Includes a legend for product categories
+4. Implements tooltip showing sales details on hover"
+
+"Complete my D3.js visualization by adding:
+1. Smooth transitions when filtering data
+2. Responsive design to fit different screen sizes
+3. A simple filter control to show/hide specific chocolate categories
+4. Proper axes formatting with month names and sales values"
+
+
+My Additional Prompts
+"The default color palette only shows 8 colors. How can I add more diverse and consistent colors for each category?"
+
+"The legend on the right side gets cut off on screens. How can I fix this?"
+
+"How can I make the entire chart responsive so it scales down properly on smaller screens, like mobile devices?"
+
+"When filtering categories, I want the transition to smoothly shift the bars up and down — not just fade in/out. How can I achieve that?"
+
+"Can you explain where to insert the code and which part to replace, when you give code snippets?"
+
+"Is my implementation complete? Does it meet all evaluation criteria?"

@@ -1,0 +1,7 @@
+// Shared configuration. Update these values to run on your own device.
+
+// Your unique bundle identifier (e.g., com.yourdomain.app)
+PRODUCT_BUNDLE_IDENTIFIER = unist.jeonghoon.HARmony
+
+// Your 10-character Apple Developer Team ID
+DEVELOPMENT_TEAM = 8X28U92N94

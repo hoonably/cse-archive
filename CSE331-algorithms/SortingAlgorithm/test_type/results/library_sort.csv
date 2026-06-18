@@ -1,0 +1,5 @@
+algorithm,type,time_sec,accuracy
+library_sort,int,0.138354,0.9913
+library_sort,long long,0.152781,0.9913
+library_sort,float,0.160677,0.9913
+library_sort,double,0.180754,0.9913

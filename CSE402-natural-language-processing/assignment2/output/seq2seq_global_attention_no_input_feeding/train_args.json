@@ -1,0 +1,1 @@
+{"batch_size": 16, "epochs": 3, "lr": 0.001, "warmup_steps": 50, "device": "cuda", "gradient_accumulate_steps": 1}

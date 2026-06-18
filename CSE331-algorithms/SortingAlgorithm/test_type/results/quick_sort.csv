@@ -1,0 +1,5 @@
+algorithm,type,time_sec,accuracy
+quick_sort,int,0.0533677,1.0
+quick_sort,long long,0.0526085,1.0
+quick_sort,float,0.0649952,1.0
+quick_sort,double,0.0652245,1.0

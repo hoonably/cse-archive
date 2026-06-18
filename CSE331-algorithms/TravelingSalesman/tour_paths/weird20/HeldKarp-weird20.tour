@@ -1,0 +1,29 @@
+NAME : weird20
+COMMENT : Algorithm HeldKarp
+COMMENT : Length 439 
+COMMENT : Elapsed time 43.252151 seconds
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+1
+16
+10
+5
+3
+17
+13
+11
+19
+7
+15
+9
+4
+18
+12
+2
+6
+20
+8
+14
+1
+EOF

@@ -1,0 +1,25 @@
+# Runtime caches and downloaded datasets
+cache/
+local_cache/
+
+# Training logs and generated outputs
+logs/
+output/
+
+# Notebook and Python runtime artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Submission archives generated locally
+defaultproject_*.zip
+
+# Large model/checkpoint artifacts, in case they are created outside output/
+*.safetensors
+*.bin
+*.pt
+*.pth
+# Local smoke-test runners/logs
+smoke_*.log
+smoke_*_experiments.py
+smoke_*.py

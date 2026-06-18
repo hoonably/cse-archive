@@ -1,0 +1,5 @@
+algorithm,type,time_sec,accuracy
+comb_sort,int,0.076006,1.0
+comb_sort,long long,0.0758684,1.0
+comb_sort,float,0.0913301,1.0
+comb_sort,double,0.092674,1.0

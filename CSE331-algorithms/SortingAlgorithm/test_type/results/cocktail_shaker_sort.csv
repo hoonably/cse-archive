@@ -1,0 +1,5 @@
+algorithm,type,time_sec,accuracy
+cocktail_shaker_sort,int,560.805,1.0
+cocktail_shaker_sort,long long,562.987,1.0
+cocktail_shaker_sort,float,683.007,1.0
+cocktail_shaker_sort,double,702.344,1.0

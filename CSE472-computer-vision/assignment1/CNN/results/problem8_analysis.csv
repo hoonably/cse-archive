@@ -1,0 +1,6 @@
+Metric,Value
+Total Samples,2000
+Exact Accuracy (%),77.55
+Accuracy ±5min (%),100.00
+Avg Hour Error,0.00
+Avg Minute Error,0.22

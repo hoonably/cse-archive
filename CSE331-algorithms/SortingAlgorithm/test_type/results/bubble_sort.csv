@@ -1,0 +1,5 @@
+algorithm,type,time_sec,accuracy
+bubble_sort,int,921.366,1.0
+bubble_sort,long long,926.229,1.0
+bubble_sort,float,1113.98,1.0
+bubble_sort,double,1127.99,1.0

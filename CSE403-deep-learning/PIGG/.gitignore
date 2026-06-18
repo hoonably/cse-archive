@@ -1,0 +1,12 @@
+dataset/fingertip-20k/*
+
+src/dataset_pkl/
+__pycache__/
+.DS_Store/
+checkpoints/
+logs/
+SM_section/
+eval_results/
+visualizations/
+visualizations_personalized/
+visualizations_global/

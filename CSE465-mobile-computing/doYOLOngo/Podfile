@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '26.4'
+
+target 'doYOLOngo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for doYOLOngo
+  pod 'TensorFlowLiteSwift'
+end
+
+# macOS realpath has no -m/-q; CocoaPods' trap then hides the rea
+post_install do |installer|
+  sh_root = installer.sandbox.root + 'Target Support Files'
+  Dir.glob(File.join(sh_root.to_s, '**', '*.sh')).each do |path|
+    next unless File.file?(path)
+    c = File.read(path)
+    next unless c.include?('realpath -mq')
+    p = c.gsub(
+      'echo "$(realpath -mq "${0}"):$1: error: Unexpected failure"',
+      'echo "${0}:$1: error: Unexpected failure"'
+    )
+    File.write(path, p) if p != c
+  end
+end

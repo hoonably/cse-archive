@@ -1,0 +1,38 @@
+/* 전체 페이지 기본 스타일 설정 // Global page styles */
+body {
+  font-family: sans-serif;         /* 글꼴 설정 // Set default font */
+  background-color: #f9f9f9;       /* 옅은 회색 배경 // Light gray background */
+  margin: 20px;                    /* 바깥 여백 // Page margin */
+}
+
+/* SVG 차트 영역 스타일 // SVG chart area */
+svg {
+  width: 100%;                     /* 가로 길이 100% // Full width */
+  height: auto;                    /* 세로는 내용에 따라 자동 // Auto height to maintain aspect ratio */
+  border: 1px solid #ccc;         /* 회색 테두리 // Light gray border */
+  background-color: white;        /* 흰색 배경 // White background */
+  margin: auto;                   /* 가운데 정렬 // Center horizontally */
+}
+
+/* 필터 컨트롤 전체 박스 여백 // Filter controls wrapper */
+#controls {
+  margin-bottom: 20px;            /* 아래쪽 여백 // Space below filters */
+}
+
+/* 각 필터(체크박스 + 텍스트) 스타일 // Style for each filter item */
+#filters label {
+  display: inline-block;          /* 가로 정렬 // Display filters side-by-side */
+  margin-right: 15px;             /* 항목 간 간격 // Spacing between filter items */
+  font-size: 14px;                /* 글자 크기 // Font size */
+}
+
+/* 툴팁 스타일 (막대 위 정보창) // Tooltip styles for bar details */
+.tooltip {
+  position: absolute;             /* 마우스 기준 위치 // Position relative to mouse */
+  background: white;              /* 흰 배경 // White background */
+  border: 1px solid #ccc;         /* 회색 테두리 // Light gray border */
+  padding: 6px;                   /* 안쪽 여백 // Padding inside the tooltip */
+  pointer-events: none;           /* 마우스 이벤트 차단 // Prevent mouse interactions */
+  font-size: 13px;                /* 글자 크기 // Font size */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 약한 그림자 효과 // Subtle shadow */
+}

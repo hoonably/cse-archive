@@ -1,0 +1,53 @@
+algorithm,type,time_sec,accuracy
+merge_sort,int,0.1051758,1.0
+merge_sort,long long,0.1171815,1.0
+merge_sort,float,0.1287919,1.0
+merge_sort,double,0.1404661,1.0
+heap_sort,int,0.081714,1.0
+heap_sort,long long,0.0900029,1.0
+heap_sort,float,0.1005336,1.0
+heap_sort,double,0.1064799,1.0
+bubble_sort,int,921.366,1.0
+bubble_sort,long long,926.229,1.0
+bubble_sort,float,1113.98,1.0
+bubble_sort,double,1127.99,1.0
+insertion_sort,int,72.1336,1.0
+insertion_sort,long long,77.4562,1.0
+insertion_sort,float,74.7377,1.0
+insertion_sort,double,81.7258,1.0
+selection_sort,int,175.83,1.0
+selection_sort,long long,232.012,1.0
+selection_sort,float,245.967,1.0
+selection_sort,double,293.108,1.0
+quick_sort,int,0.0533677,1.0
+quick_sort,long long,0.0526085,1.0
+quick_sort,float,0.0649952,1.0
+quick_sort,double,0.0652245,1.0
+quick_sort_random,int,0.058407,1.0
+quick_sort_random,long long,0.058148,1.0
+quick_sort_random,float,0.0703171,1.0
+quick_sort_random,double,0.0705786,1.0
+library_sort,int,0.138354,0.9913
+library_sort,long long,0.152781,0.9913
+library_sort,float,0.160677,0.9913
+library_sort,double,0.180754,0.9913
+cocktail_shaker_sort,int,560.805,1.0
+cocktail_shaker_sort,long long,562.987,1.0
+cocktail_shaker_sort,float,683.007,1.0
+cocktail_shaker_sort,double,702.344,1.0
+tim_sort,int,0.0402554,1.0
+tim_sort,long long,0.0442254,1.0
+tim_sort,float,0.0638121,1.0
+tim_sort,double,0.0667004,1.0
+comb_sort,int,0.076006,1.0
+comb_sort,long long,0.0758684,1.0
+comb_sort,float,0.0913301,1.0
+comb_sort,double,0.092674,1.0
+tournament_sort,int,0.201393,1.0
+tournament_sort,long long,0.267864,1.0
+tournament_sort,float,0.251127,1.0
+tournament_sort,double,0.449205,1.0
+intro_sort,int,0.0492424,1.0
+intro_sort,long long,0.0493861,1.0
+intro_sort,float,0.0610715,1.0
+intro_sort,double,0.0614661,1.0

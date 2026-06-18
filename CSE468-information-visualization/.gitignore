@@ -1,0 +1,5 @@
+.DS_Store
+**/node_modules/
+**/package-lock.json
+**/owid-covid-data.csv
+!data/.gitkeep

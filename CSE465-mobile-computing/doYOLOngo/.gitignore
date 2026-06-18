@@ -1,0 +1,13 @@
+# CocoaPods dependencies are recreated with `pod install`.
+Pods/
+
+# Xcode local user state.
+xcuserdata/
+*.xcuserstate
+
+# Local build output.
+DerivedData/
+build/
+
+# macOS metadata.
+.DS_Store

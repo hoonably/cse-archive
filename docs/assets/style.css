@@ -1,0 +1,422 @@
+:root {
+  color-scheme: light;
+  --bg: #f7f8fa;
+  --surface: #ffffff;
+  --text: #1f2933;
+  --muted: #5d6875;
+  --border: #d9dee7;
+  --accent: #234b78;
+  --accent-soft: #e8f0fa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.page {
+  width: min(1120px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 36px 0 48px;
+}
+
+.topbar {
+  width: min(1120px, calc(100% - 32px));
+  margin: 0 auto;
+  padding-top: 18px;
+  text-align: right;
+}
+
+.topbar-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 4px 9px;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.topbar-link:hover {
+  color: var(--accent);
+  text-decoration: none;
+  border-color: #9db4ce;
+}
+
+.viewer-page {
+  padding-top: 22px;
+}
+
+.viewer-page .eyebrow {
+  margin-bottom: 5px;
+  font-size: 0.76rem;
+}
+
+.viewer-page h1 {
+  margin-bottom: 7px;
+  font-size: clamp(1.35rem, 2.2vw, 2rem);
+}
+
+.viewer-page .lead {
+  max-width: 860px;
+  margin-bottom: 0;
+  font-size: 0.9rem;
+}
+
+.viewer-page .actions {
+  margin: 14px 0;
+}
+
+.viewer-page .button {
+  min-height: 32px;
+  padding: 6px 10px;
+  border-radius: 5px;
+  font-size: 0.84rem;
+}
+
+.home-page {
+  padding-top: 44px;
+}
+
+.home-hero {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 28px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.home-hero h1 {
+  margin-bottom: 10px;
+  font-size: clamp(1.8rem, 3.4vw, 2.7rem);
+}
+
+.repo-link {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 7px 12px;
+  color: var(--accent);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 650;
+}
+
+.repo-link:hover {
+  text-decoration: none;
+  border-color: #9db4ce;
+}
+
+.repo-link.github-code {
+  gap: 8px;
+  color: #ffffff;
+  background: #24292f;
+  border-color: #24292f;
+}
+
+.repo-link.github-code:hover {
+  color: #ffffff;
+  background: #111820;
+  border-color: #111820;
+}
+
+.section-heading {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+}
+
+.section-heading h2 {
+  margin: 0;
+}
+
+.section-heading > span {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.section-kicker {
+  margin-bottom: 4px;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.document-grid {
+  grid-template-columns: repeat(auto-fit, minmax(245px, 1fr));
+}
+
+.compact-grid {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+.document-card {
+  position: relative;
+  min-height: 150px;
+  padding: 18px 18px 20px;
+  transition: border-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
+}
+
+.document-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(35, 75, 120, 0.08);
+}
+
+.course-tag {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  margin-bottom: 16px;
+  padding: 3px 8px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 5px;
+  font-size: 0.76rem;
+  font-weight: 750;
+}
+
+.document-card strong {
+  margin-bottom: 8px;
+  font-size: 1.08rem;
+}
+
+.document-card span:last-child {
+  line-height: 1.45;
+}
+
+.hero {
+  margin-bottom: 32px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 0 0 12px;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  line-height: 1.08;
+}
+
+h2 {
+  margin: 36px 0 14px;
+  font-size: 1.35rem;
+}
+
+p {
+  margin: 0 0 16px;
+}
+
+.lead {
+  max-width: 760px;
+  color: var(--muted);
+  font-size: 1.06rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  display: block;
+  height: 100%;
+  padding: 18px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.card:hover {
+  text-decoration: none;
+  border-color: #9db4ce;
+}
+
+.card strong {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--text);
+  font-size: 1.04rem;
+}
+
+.card span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 22px 0;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  padding: 8px 13px;
+  background: var(--accent);
+  color: #ffffff;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.button:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background: #17395d;
+}
+
+.button.secondary {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.button.secondary:hover {
+  background: #d8e6f6;
+  color: var(--accent);
+}
+
+.button.secondary.github-code {
+  gap: 7px;
+  color: #ffffff;
+  background: #24292f;
+}
+
+.button.secondary.github-code::before,
+.repo-link.github-code::before {
+  content: "";
+  width: 15px;
+  height: 15px;
+  flex: 0 0 auto;
+  background: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82A7.65 7.65 0 0 1 8 4.58c.68 0 1.36.09 2 .24 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82A7.65 7.65 0 0 1 8 4.58c.68 0 1.36.09 2 .24 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+
+.button.secondary.github-code:hover {
+  color: #ffffff;
+  background: #111820;
+}
+
+.preview-button {
+  border: 0;
+  cursor: pointer;
+  font: inherit;
+}
+
+.preview-button.active {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+.preview-button.active:hover {
+  background: #17395d;
+  color: #ffffff;
+}
+
+.pdf-viewer {
+  width: 100%;
+  height: min(82vh, 980px);
+  min-height: 620px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+}
+
+.doc-section {
+  margin-top: 28px;
+}
+
+.footer {
+  margin-top: 36px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+@media (max-width: 720px) {
+  .page {
+    width: min(100% - 24px, 1120px);
+    padding: 24px 0 30px;
+  }
+
+  .topbar {
+    width: min(100% - 24px, 1120px);
+    padding-top: 12px;
+    text-align: left;
+  }
+
+  .pdf-viewer {
+    min-height: 520px;
+  }
+
+  .viewer-page {
+    padding-top: 18px;
+  }
+
+  .viewer-page h1 {
+    font-size: 1.3rem;
+  }
+
+  .home-page {
+    padding-top: 28px;
+  }
+
+  .home-hero {
+    display: block;
+    padding-bottom: 18px;
+  }
+
+  .home-hero h1 {
+    font-size: 1.9rem;
+  }
+
+  .repo-link {
+    margin-top: 14px;
+  }
+
+  .section-heading {
+    display: block;
+  }
+
+  .section-heading > span {
+    display: block;
+    margin-top: 4px;
+  }
+}

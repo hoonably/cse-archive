@@ -1,0 +1,5 @@
+algorithm,type,time_sec,accuracy
+selection_sort,int,175.83,1.0
+selection_sort,long long,232.012,1.0
+selection_sort,float,245.967,1.0
+selection_sort,double,293.108,1.0

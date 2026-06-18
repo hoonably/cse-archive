@@ -1,0 +1,5 @@
+algorithm,type,time_sec,accuracy
+tim_sort,int,0.0402554,1.0
+tim_sort,long long,0.0442254,1.0
+tim_sort,float,0.0638121,1.0
+tim_sort,double,0.0667004,1.0

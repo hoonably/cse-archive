@@ -1,0 +1,29 @@
+NAME : weird20
+COMMENT : Algorithm Flow_kNN
+COMMENT : Length 564 
+COMMENT : Elapsed time 0.000249 seconds
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+19
+11
+13
+6
+20
+8
+1
+14
+16
+5
+10
+3
+17
+7
+15
+2
+12
+18
+4
+9
+19
+EOF

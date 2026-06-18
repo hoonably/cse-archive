@@ -1,0 +1,3 @@
+Kernel Type,Accuracy (%),Difference (%)
+RBF,40.00,-
+Histogram Intersection,61.00,+21.00

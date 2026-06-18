@@ -1,0 +1,29 @@
+NAME : weird20
+COMMENT : Algorithm Greedy
+COMMENT : Length 547 
+COMMENT : Elapsed time 0.000008 seconds
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+1
+14
+16
+8
+20
+6
+13
+17
+3
+5
+10
+12
+2
+18
+9
+4
+15
+7
+11
+19
+1
+EOF
