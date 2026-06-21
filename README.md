@@ -28,7 +28,7 @@ Selected projects and larger course projects are listed below. `local` projects 
 | [CSE221](CSE221-data-structures/) | Data Structures | 5 assignments, midterm/final summaries, final practice |
 | [CSE261](CSE261-computer-architecture/) | Computer Architecture | Midterm/final summaries and practice materials |
 | [CSE271](CSE271-programming-languages/) | Principles of Programming Languages | 3 Racket/Scheme assignments, summary |
-| [CSE303](CSE303-basic-math-for-ai/) | Basic Math for AI | VSCO assignment, summary, practice materials |
+| [CSE303](CSE303-basic-math-for-ai/) | Basic Math for AI | 2 assignments, summary, practice materials |
 | [CSE311](CSE311-operating-systems/) | Operating Systems | Pintos external repository, Pintos summaries, midterm/final summaries |
 | [CSE331](CSE331-algorithms/) | Algorithms | Sorting benchmark project, TSP solver project, summary, final solution |
 | [CSE363](CSE363-machine-learning/) | Machine Learning | 4 assignments, SKiP external project |
