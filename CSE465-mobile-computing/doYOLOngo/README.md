@@ -4,14 +4,16 @@
 
 doYOLOngo is a high-performance, real-time object detection application for iOS. It combines the power of YOLO (You Only Look Once) with natural voice commands, allowing users to interact with their environment through their camera and microphone.
 
+https://github.com/user-attachments/assets/0300fa75-6a0d-4395-b54b-dd1725f4f051
+
 ## Report
 
 You can view the report in the [document viewer](https://hoonably.github.io/cse-archive/doyolongo/) or open the local [report.pdf](report.pdf).
 
-<!-- <p align="center">
-  <img src="docs/figures/live_detection.png" alt="Live Detection Preview" width="49%">
-  <img src="docs/figures/benchmarking.png" alt="Benchmark Preview" width="49%">
-</p> -->
+<p align="center">
+  <img src="figures/live_detection.png" alt="Live Detection Preview" width="49%">
+  <img src="figures/fps_comparison.png" alt="FPS Comparison" width="49%">
+</p>
 
 The application utilizes optimized TFLite models to perform on-device inference, ensuring maximum privacy and low-latency performance.
 
