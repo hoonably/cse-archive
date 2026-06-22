@@ -1,7 +1,5 @@
 # doYOLOngo ✨
 
-<!-- > 🥇 Best Award - Ranked 1st in the course. -->
-
 doYOLOngo is a high-performance, real-time object detection application for iOS. It combines the power of YOLO (You Only Look Once) with natural voice commands, allowing users to interact with their environment through their camera and microphone.
 
 https://github.com/user-attachments/assets/0300fa75-6a0d-4395-b54b-dd1725f4f051
@@ -11,8 +9,8 @@ https://github.com/user-attachments/assets/0300fa75-6a0d-4395-b54b-dd1725f4f051
 You can view the report in the [document viewer](https://hoonably.github.io/cse-archive/doyolongo/) or open the local [report.pdf](report.pdf).
 
 <p align="center">
-  <img src="figures/live_detection.png" alt="Live Detection Preview" width="49%">
-  <img src="figures/fps_comparison.png" alt="FPS Comparison" width="49%">
+  <img src="figures/live_detection.png" alt="Live Detection Preview" width="24%">
+  <img src="figures/fps_comparison.png" alt="FPS Comparison" width="74%">
 </p>
 
 The application utilizes optimized TFLite models to perform on-device inference, ensuring maximum privacy and low-latency performance.
@@ -31,7 +29,7 @@ The application utilizes optimized TFLite models to perform on-device inference,
 | Dim      | INT8     | 8.86 | 109.06        | 112.76        | 6.71       | 109.9     |
 
 
-## 🚀 Key Features
+## Key Features
 
 - **Voice-Driven Search**: Locate specific objects in your environment using voice commands (e.g., "Find the bottle").
 - **Real-time Detection**: High-density inference using optimized YOLO models (FP32, FP16, and INT8).
@@ -39,7 +37,7 @@ The application utilizes optimized TFLite models to perform on-device inference,
 - **Session Analysis**: Log detection events and export session data for performance evaluation.
 - **Premium UI/UX**: Modern, fluid interface with smooth transitions and real-time visualization.
 
-## 🛠️ How to Reproduce
+## How to Reproduce
 
 Run the commands from this README's directory.
 
@@ -66,7 +64,7 @@ Run the commands from this README's directory.
    - Select a physical iPhone (required for camera and sensor access).
    - Press **Cmd + R** to build and run.
 
-## 📂 Project Structure
+## Project Structure
 
 - `Podfile` / `Podfile.lock`: CocoaPods dependency definition and locked versions for reproducible installs.
 - `Services/YOLOInferenceService.swift`: Core engine for TFLite model loading and inference.

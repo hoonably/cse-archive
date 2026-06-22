@@ -15,14 +15,14 @@ You can view the report in the [document viewer](https://hoonably.github.io/cse-
 
 Sensor previews from the analysis pipeline show synchronized accelerometer and gyroscope patterns across representative activity groups.
 
-## 🚀 Key Features
+## Key Features
 
 - **Real-time Activity Detection**: High-density inference using optimized rule-based classification.
 - **Sensor Data Collection**: Record synchronized inertial data (acc + gyro) for further tuning.
 - **Live Visualization**: Smooth chart representation of raw sensor signals.
 - **Optimized for iOS**: Pure Swift implementation with focus on battery efficiency and responsiveness.
 
-## 🛠️ How to Reproduce
+## How to Reproduce
 
 1. **Open in Xcode**
    - Double-click `HARmony.xcodeproj` to open the project.
@@ -35,7 +35,7 @@ Sensor previews from the analysis pipeline show synchronized accelerometer and g
    - Select a physical iPhone (recommended for sensor access) or a Simulator.
    - Press **Cmd + R** to build and run.
 
-## 📂 Project Structure
+## Project Structure
 
 - `ActivityClassifier.swift`: The core logic for rule-based motion classification.
 - `MotionManager.swift`: Handles communication with CoreMotion and provides synchronized sampling.
