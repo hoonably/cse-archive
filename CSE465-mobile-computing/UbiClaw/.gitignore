@@ -1,0 +1,14 @@
+Local.xcconfig
+*.xcuserstate
+xcuserdata/
+UbiClaw.xcodeproj/xcuserdata/
+UbiClaw.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
+.DS_Store
+llama.cpp
+HexGL/
+UbiClaw/ExternalGames/HexGL.bundle/
+
+# Video workload assets are placed locally, not committed (large binaries)
+Videos/
+*.mp4

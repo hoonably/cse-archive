@@ -18,7 +18,7 @@ Selected projects and larger course projects are listed below. `local` projects 
 | CSE403 | PIGG | local | [PIGG](CSE403-deep-learning/PIGG/) | [Presentation](https://hoonably.github.io/cse-archive/pigg/) | Personalized Interactive GUI Grounding with Qwen3-VL. |
 | CSE465 | HARmony | local | [HARmony](CSE465-mobile-computing/HARmony/) | [Report](https://hoonably.github.io/cse-archive/harmony/) | iOS human activity recognition app using accelerometer and gyroscope data. |
 | CSE465 | doYOLOngo | local | [doYOLOngo](CSE465-mobile-computing/doYOLOngo/) | [Report](https://hoonably.github.io/cse-archive/doyolongo/) | iOS real-time object detection app with voice-driven search. |
-| CSE465 | UbiClaw | external | [GitHub](https://github.com/ginjae/UbiClaw) | - | Mobile computing project kept in a separate repository. |
+| CSE465 | UbiClaw | local | [UbiClaw](CSE465-mobile-computing/UbiClaw/) | [Report](https://hoonably.github.io/cse-archive/ubiclaw/) | Apple Silicon benchmarking tool for LLM inference interference with foreground workloads. |
 | CSE469 | CosmicMiner Robotics | local | [cosmic-miner](CSE469-robotics/cosmic-miner/) | [Reports](https://hoonably.github.io/cse-archive/cosmicminer-robotics/) | Unity/C# robotics control and multi-agent exploration projects. |
 
 ## Subjects
@@ -34,7 +34,7 @@ Selected projects and larger course projects are listed below. `local` projects 
 | [CSE363](CSE363-machine-learning/) | Machine Learning | 4 assignments, SKiP external project |
 | [CSE402](CSE402-natural-language-processing/) | Natural Language Processing | 2 assignments, ConstraintRAG project, practice and past exam |
 | [CSE403](CSE403-deep-learning/) | Deep Learning | PIGG project, quiz solution |
-| [CSE465](CSE465-mobile-computing/) | Mobile Computing | HARmony, doYOLOngo, UbiClaw external project, summary, quiz material |
+| [CSE465](CSE465-mobile-computing/) | Mobile Computing | HARmony, doYOLOngo, UbiClaw projects, summary, quiz material |
 | [CSE468](CSE468-information-visualization/) | Information Visualization | D3 assignments, exercises, midterm/final visualizations, shared dataset placeholder |
 | [CSE469](CSE469-robotics/) | Introduction to Robotics | CosmicMiner robotics projects, Unity packages, reports, C# source |
 | [CSE472](CSE472-computer-vision/) | Computer Vision | 2 assignments, midterm/final summaries, practice materials |
