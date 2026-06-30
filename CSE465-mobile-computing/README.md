@@ -14,9 +14,9 @@ Archive for CSE465 Mobile Computing projects and study materials.
 
 ## Documents
 
-- [HARmony report](https://hoonably.github.io/cse-archive/harmony/) ([local PDF](HARmony/report.pdf))
-- [doYOLOngo report](https://hoonably.github.io/cse-archive/doyolongo/) ([local PDF](doYOLOngo/report.pdf))
-- [UbiClaw report](https://hoonably.github.io/cse-archive/ubiclaw/) ([local PDF](UbiClaw/report.pdf))
+- [HARmony report](https://hoonably.github.io/cse-archive/harmony.pdf) ([local PDF](HARmony/report.pdf))
+- [doYOLOngo report](https://hoonably.github.io/cse-archive/doyolongo.pdf) ([local PDF](doYOLOngo/report.pdf))
+- [UbiClaw report](https://hoonably.github.io/cse-archive/ubiclaw.pdf) ([local PDF](UbiClaw/report.pdf))
 
 ## Lecture
 

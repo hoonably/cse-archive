@@ -1,7 +1,7 @@
 # UbiClaw
 
 
-<a href="https://hoonably.github.io/cse-archive/ubiclaw"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=blue"></a>
+<a href="https://hoonably.github.io/cse-archive/ubiclaw.pdf"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=blue"></a>
 <a href="https://github.com/hoonably/cse-archive/tree/main/CSE465-mobile-computing/UbiClaw"><img src="https://img.shields.io/static/v1?label=Project&message=Code&color=24292f"></a>
 <a href="https://github.com/user-attachments/assets/bdf7fbd3-572e-4c91-9000-89634bc16d86"><img src="https://img.shields.io/badge/Project-Video-2ea44f?logo=video&logoColor=white"></a>
 
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/bdf7fbd3-572e-4c91-9000-89634bc16d86
 
 ## Report
 
-You can view the report in the [document viewer](https://hoonably.github.io/cse-archive/ubiclaw/) or open the local [report.pdf](report.pdf).
+You can open the [PDF report](https://hoonably.github.io/cse-archive/ubiclaw.pdf) or the local [report.pdf](report.pdf).
 
 ## Requirements
 

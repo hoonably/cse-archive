@@ -13,8 +13,8 @@ Archive for CSE331 Algorithms projects and study materials.
 
 ## Documents
 
-- [SortingAlgorithm report](https://hoonably.github.io/cse-archive/sorting-algorithm/)
-- [TravelingSalesman report](https://hoonably.github.io/cse-archive/traveling-salesman/)
+- [SortingAlgorithm report](https://hoonably.github.io/cse-archive/sorting-algorithm.pdf)
+- [TravelingSalesman report](https://hoonably.github.io/cse-archive/traveling-salesman.pdf)
 
 ## Lecture
 

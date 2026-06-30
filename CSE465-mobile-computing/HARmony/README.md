@@ -6,7 +6,7 @@ HARmony is a high-performance, real-time Human Activity Recognition (HAR) applic
 
 ## Report
 
-You can view the report in the [document viewer](https://hoonably.github.io/cse-archive/harmony/) or open the local [report.pdf](report.pdf).
+You can open the [PDF report](https://hoonably.github.io/cse-archive/harmony.pdf) or the local [report.pdf](report.pdf).
 
 <p align="center">
   <img src="analysis/report_figures/raw_signals_group1.png" alt="Raw signal preview group 1" width="49%">

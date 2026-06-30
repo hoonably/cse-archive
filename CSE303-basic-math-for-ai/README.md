@@ -14,8 +14,8 @@ Archive for CSE303 Basic Math for AI coursework and project materials.
 
 ## Documents
 
-You can view the VSCO report in the [document viewer](https://hoonably.github.io/cse-archive/vsco/).
-You can view the Gradient Optimizer report in the [document viewer](https://hoonably.github.io/cse-archive/gradient-optimizer/).
+You can open the [VSCO report](https://hoonably.github.io/cse-archive/vsco.pdf).
+You can open the [Gradient Optimizer report](https://hoonably.github.io/cse-archive/gradient-optimizer.pdf).
 
 ## Lecture
 

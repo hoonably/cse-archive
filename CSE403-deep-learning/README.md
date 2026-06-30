@@ -11,7 +11,7 @@ Archive for CSE403 Deep Learning project and study materials.
 
 ## Documents
 
-You can view the PIGG proposal and final presentation in the [document viewer](https://hoonably.github.io/cse-archive/pigg/).
+You can view the PIGG [final presentation](https://hoonably.github.io/cse-archive/pigg.pdf) and [project proposal](https://hoonably.github.io/cse-archive/pigg_proposal.pdf).
 
 ## Lecture
 

@@ -133,4 +133,4 @@ Use `_visualize_tsp_paths.py` to batch regenerate or customize.
 
 ## 📎 Reference
 
-📄 [Solving the Traveling Salesman Problem (Project Report)](https://hoonably.github.io/cse-archive/traveling-salesman/)
+📄 [Solving the Traveling Salesman Problem (Project Report)](https://hoonably.github.io/cse-archive/traveling-salesman.pdf)

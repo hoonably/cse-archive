@@ -14,8 +14,8 @@ Archive for CSE402 Natural Language Processing assignments, project work, and st
 
 ## Documents
 
-- [ConstraintRAG report](https://hoonably.github.io/cse-archive/constraint-rag/)
-- [Seq2Seq assignment report](https://hoonably.github.io/cse-archive/seq2seq/)
+- [ConstraintRAG report](https://hoonably.github.io/cse-archive/constraint-rag.pdf)
+- [Seq2Seq assignment report](https://hoonably.github.io/cse-archive/seq2seq.pdf)
 
 ## Lecture
 

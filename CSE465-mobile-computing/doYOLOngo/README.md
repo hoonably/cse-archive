@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/0300fa75-6a0d-4395-b54b-dd1725f4f051
 
 ## Report
 
-You can view the report in the [document viewer](https://hoonably.github.io/cse-archive/doyolongo/) or open the local [report.pdf](report.pdf).
+You can open the [PDF report](https://hoonably.github.io/cse-archive/doyolongo.pdf) or the local [report.pdf](report.pdf).
 
 <p align="center">
   <img src="figures/live_detection.png" alt="Live Detection Preview" width="24%">

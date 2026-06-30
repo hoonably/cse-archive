@@ -4,8 +4,8 @@ ConstraintRAG is a constraint-aware retrieval-augmented QA pipeline for Natural 
 
 ## Documents
 
-- [Project report](https://hoonably.github.io/cse-archive/constraint-rag/)
-- [Project proposal](https://hoonably.github.io/cse-archive/constraint-rag/proposal.pdf)
+- [Project report](https://hoonably.github.io/cse-archive/constraint-rag.pdf)
+- [Project proposal](https://hoonably.github.io/cse-archive/constraint-rag_proposal.pdf)
 
 ## Highlights
 

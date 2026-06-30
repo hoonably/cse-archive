@@ -14,7 +14,7 @@ Archive for CSE472 Computer Vision assignments and study materials.
 
 ## Documents
 
-You can view the BoW-CNN report in the [document viewer](https://hoonably.github.io/cse-archive/bow-cnn/).
+You can open the [BoW-CNN report](https://hoonably.github.io/cse-archive/bow-cnn.pdf).
 
 ## Lecture
 

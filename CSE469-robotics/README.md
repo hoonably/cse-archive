@@ -12,4 +12,4 @@ Archive for CSE469 robotics projects built on the CosmicMiner simulation framewo
 
 ## Documents
 
-You can view the robotics project reports in the [document viewer](https://hoonably.github.io/cse-archive/cosmicminer-robotics/).
+You can view the robotics project reports: [Project 1](https://hoonably.github.io/cse-archive/cosmicminer-robotics1.pdf), [Project 2](https://hoonably.github.io/cse-archive/cosmicminer-robotics2.pdf), and [Project 3](https://hoonably.github.io/cse-archive/cosmicminer-robotics3.pdf).

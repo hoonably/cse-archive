@@ -2,7 +2,7 @@
 
 A curated archive of UNIST CSE coursework, including selected projects, programming assignments, reports, summaries, and exam practice materials.
 
-The archive is organized by course and highlights larger project-style work first, followed by a course-by-course overview. Selected reports and presentations are available through the [document viewer](https://hoonably.github.io/cse-archive/).
+The archive is organized by course and highlights larger project-style work first, followed by a course-by-course overview. Selected reports and presentations are available through the [project page](https://jeonghoonpark.com/project/).
 
 ## Projects
 
@@ -10,16 +10,16 @@ Selected projects and larger course projects are listed below. `local` projects 
 
 | Course | Project | Type | Location | Documents | Description |
 |---|---|---|---|---|---|
-| CSE311 | Pintos | external | [GitHub](https://github.com/hoonably/pintos) | - | Operating systems project kept in a separate repository. |
-| CSE331 | SortingAlgorithm | local | [SortingAlgorithm](CSE331-algorithms/SortingAlgorithm/) | [Report](https://hoonably.github.io/cse-archive/sorting-algorithm/) | C++ benchmark of classical and modern sorting algorithms. |
-| CSE331 | TravelingSalesman | local | [TravelingSalesman](CSE331-algorithms/TravelingSalesman/) | [Report](https://hoonably.github.io/cse-archive/traveling-salesman/) | Exact, approximation, local-search, and heuristic TSP solvers. |
-| CSE363 | SKiP | external | [GitHub](https://github.com/hoonably/SKiP) | - | Machine learning project kept in a separate repository. |
-| CSE402 | ConstraintRAG | local | [ConstraintRAG](CSE402-natural-language-processing/ConstraintRAG/) | [Report](https://hoonably.github.io/cse-archive/constraint-rag/) | Constraint-aware retrieval-augmented QA pipeline for Natural Questions. |
-| CSE403 | PIGG | local | [PIGG](CSE403-deep-learning/PIGG/) | [Presentation](https://hoonably.github.io/cse-archive/pigg/) | Personalized Interactive GUI Grounding with Qwen3-VL. |
-| CSE465 | HARmony | local | [HARmony](CSE465-mobile-computing/HARmony/) | [Report](https://hoonably.github.io/cse-archive/harmony/) | iOS human activity recognition app using accelerometer and gyroscope data. |
-| CSE465 | doYOLOngo | local | [doYOLOngo](CSE465-mobile-computing/doYOLOngo/) | [Report](https://hoonably.github.io/cse-archive/doyolongo/) | iOS real-time object detection app with voice-driven search. |
-| CSE465 | UbiClaw | local | [UbiClaw](CSE465-mobile-computing/UbiClaw/) | [Report](https://hoonably.github.io/cse-archive/ubiclaw/) | Apple Silicon benchmarking tool for LLM inference interference with foreground workloads. |
-| CSE469 | CosmicMiner Robotics | local | [cosmic-miner](CSE469-robotics/cosmic-miner/) | [Reports](https://hoonably.github.io/cse-archive/cosmicminer-robotics/) | Unity/C# robotics control and multi-agent exploration projects. |
+| CSE311 | Pintos | external | [GitHub](https://github.com/hoonably/pintos) | [Project 1](https://hoonably.github.io/cse-archive/pintos-project1-design-document.pdf), [Project 2-1](https://hoonably.github.io/cse-archive/pintos-project2-1-design-document.pdf), [Project 2-2](https://hoonably.github.io/cse-archive/pintos-project2-2-design-document.pdf), [Project 3](https://hoonably.github.io/cse-archive/pintos-project3-design-document.pdf), [Project 4](https://hoonably.github.io/cse-archive/pintos-project4-design-document.pdf) | Operating systems project kept in a separate repository. |
+| CSE331 | SortingAlgorithm | local | [SortingAlgorithm](CSE331-algorithms/SortingAlgorithm/) | [Report](https://hoonably.github.io/cse-archive/sorting-algorithm.pdf) | C++ benchmark of classical and modern sorting algorithms. |
+| CSE331 | TravelingSalesman | local | [TravelingSalesman](CSE331-algorithms/TravelingSalesman/) | [Report](https://hoonably.github.io/cse-archive/traveling-salesman.pdf) | Exact, approximation, local-search, and heuristic TSP solvers. |
+| CSE363 | SKiP | external | [GitHub](https://github.com/hoonably/SKiP) | [Report](https://hoonably.github.io/cse-archive/skip.pdf) | Machine learning project kept in a separate repository. |
+| CSE402 | ConstraintRAG | local | [ConstraintRAG](CSE402-natural-language-processing/ConstraintRAG/) | [Report](https://hoonably.github.io/cse-archive/constraint-rag.pdf), [Proposal](https://hoonably.github.io/cse-archive/constraint-rag_proposal.pdf) | Constraint-aware retrieval-augmented QA pipeline for Natural Questions. |
+| CSE403 | PIGG | local | [PIGG](CSE403-deep-learning/PIGG/) | [Presentation](https://hoonably.github.io/cse-archive/pigg.pdf) | Personalized Interactive GUI Grounding with Qwen3-VL. |
+| CSE465 | HARmony | local | [HARmony](CSE465-mobile-computing/HARmony/) | [Report](https://hoonably.github.io/cse-archive/harmony.pdf) | iOS human activity recognition app using accelerometer and gyroscope data. |
+| CSE465 | doYOLOngo | local | [doYOLOngo](CSE465-mobile-computing/doYOLOngo/) | [Report](https://hoonably.github.io/cse-archive/doyolongo.pdf) | iOS real-time object detection app with voice-driven search. |
+| CSE465 | UbiClaw | local | [UbiClaw](CSE465-mobile-computing/UbiClaw/) | [Report](https://hoonably.github.io/cse-archive/ubiclaw.pdf) | Apple Silicon benchmarking tool for LLM inference interference with foreground workloads. |
+| CSE469 | CosmicMiner Robotics | local | [cosmic-miner](CSE469-robotics/cosmic-miner/) | [Project 1](https://hoonably.github.io/cse-archive/cosmicminer-robotics1.pdf), [Project 2](https://hoonably.github.io/cse-archive/cosmicminer-robotics2.pdf), [Project 3](https://hoonably.github.io/cse-archive/cosmicminer-robotics3.pdf) | Unity/C# robotics control and multi-agent exploration projects. |
 
 ## Subjects
 
