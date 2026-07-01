@@ -1,18 +1,15 @@
 # UbiClaw
 
 
-<a href="https://hoonably.github.io/cse-archive/ubiclaw.pdf"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=blue"></a>
 <a href="https://github.com/hoonably/cse-archive/tree/main/CSE465-mobile-computing/UbiClaw"><img src="https://img.shields.io/static/v1?label=Project&message=Code&color=24292f"></a>
-<a href="https://github.com/user-attachments/assets/bdf7fbd3-572e-4c91-9000-89634bc16d86"><img src="https://img.shields.io/badge/Project-Video-2ea44f?logo=video&logoColor=white"></a>
+<a href="https://github.com/hoonably/cse-archive/releases/download/assets-v1/UbiClaw.mp4"><img src="https://img.shields.io/badge/Project-Video-2ea44f?logo=video&logoColor=white"></a>
 
 
-A macOS benchmarking tool for measuring how background LLM inference affects foreground app responsiveness on Apple Silicon. Run controlled UI workloads alongside llama.cpp inference, then analyze the interference using Xcode Instruments signposts and CSV logs.
+A macOS SLO-aware benchmarking and polite LLM control tool for Apple Silicon. Run controlled UI workloads alongside llama.cpp inference, track foreground SLO pressure, then apply throttling/recovery policies with Xcode Instruments signposts and CSV logs.
 
-https://github.com/user-attachments/assets/bdf7fbd3-572e-4c91-9000-89634bc16d86
+Project Page: https://jeonghoonpark.com/project/ubiclaw
 
-## Report
-
-You can open the [PDF report](https://hoonably.github.io/cse-archive/ubiclaw.pdf) or the local [report.pdf](report.pdf).
+https://github.com/hoonably/cse-archive/releases/download/assets-v1/UbiClaw.mp4
 
 ## Requirements
 

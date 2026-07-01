@@ -12,10 +12,6 @@ Archive for CSE472 Computer Vision assignments and study materials.
 | summary | [final_summary.pdf](final_summary.pdf) | Personal final summary. |
 | practice | [practice.pdf](practice.pdf) | Practice material. |
 
-## Documents
-
-You can open the [BoW-CNN report](https://hoonably.github.io/cse-archive/bow-cnn.pdf).
-
 ## Lecture
 
 You can go [here](https://naver.me/GArZLkZP) to see the lecture slides.

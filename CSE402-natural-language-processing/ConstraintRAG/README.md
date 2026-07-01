@@ -2,10 +2,7 @@
 
 ConstraintRAG is a constraint-aware retrieval-augmented QA pipeline for Natural Questions. It retrieves BM25 passages, builds lightweight question/evidence diagnostics, reranks evidence with constraint signals, and generates answer candidates with an instruction-tuned Llama model.
 
-## Documents
-
-- [Project report](https://hoonably.github.io/cse-archive/constraint-rag.pdf)
-- [Project proposal](https://hoonably.github.io/cse-archive/constraint-rag_proposal.pdf)
+Project Page: https://jeonghoonpark.com/project/constraint-rag
 
 ## Highlights
 

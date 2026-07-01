@@ -4,9 +4,9 @@
 
 HARmony is a high-performance, real-time Human Activity Recognition (HAR) application for iOS. It uses built-in smartphone sensors (accelerometer & gyroscope) to classify human activities like walking, climbing stairs, and moonwalking.
 
-## Report
+Project Page: https://jeonghoonpark.com/project/harmony
 
-You can open the [PDF report](https://hoonably.github.io/cse-archive/harmony.pdf) or the local [report.pdf](report.pdf).
+https://github.com/hoonably/cse-archive/releases/download/assets-v1/HARmony.mp4
 
 <p align="center">
   <img src="analysis/report_figures/raw_signals_group1.png" alt="Raw signal preview group 1" width="49%">

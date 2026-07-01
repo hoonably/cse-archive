@@ -2,11 +2,9 @@
 
 Robotics control and multi-agent exploration projects for CSE469: Introduction to Robotics, implemented on top of the CosmicMiner simulation framework.
 
-https://github.com/user-attachments/assets/59b4587c-8ea5-40d2-82bc-0040ec75b10e
+https://github.com/hoonably/cse-archive/releases/download/assets-v1/cosmicminer.mp4
 
-## Documents
-
-You can view the project reports: [Project 1](https://hoonably.github.io/cse-archive/cosmicminer-robotics1.pdf), [Project 2](https://hoonably.github.io/cse-archive/cosmicminer-robotics2.pdf), and [Project 3](https://hoonably.github.io/cse-archive/cosmicminer-robotics3.pdf).
+Project Page: https://jeonghoonpark.com/project/cosmicminer-robotics
 
 ## Overview
 

@@ -12,7 +12,7 @@
 - 🥇 **Fastest Algorithm**: Tim Sort (0.0407s on 10⁶ elements)
 - ✅ **Most Stable**: Merge, Tim, Insertion, Bubble
 - 🧠 **Memory Efficient**: In-place methods (Quick, Heap, Selection)
-- 🧪 Full results in the [project report](https://hoonably.github.io/cse-archive/sorting-algorithm.pdf)
+- 🧪 Full writeup: [Project Page](https://jeonghoonpark.com/project/sorting-algorithm)
 
 ---
 
@@ -200,4 +200,4 @@ Results are stored in the `results/` directory.
 
 ## 📎 Reference
 
-📄 [Sorting Algorithm (Project Report)](https://hoonably.github.io/cse-archive/sorting-algorithm.pdf)
+Project Page: https://jeonghoonpark.com/project/sorting-algorithm

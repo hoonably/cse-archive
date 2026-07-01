@@ -12,11 +12,6 @@ Archive for CSE303 Basic Math for AI coursework and project materials.
 | practice | [practice.pdf](practice.pdf) | Practice problems. |
 | practice | [practice_answer.pdf](practice_answer.pdf) | Practice answers. |
 
-## Documents
-
-You can open the [VSCO report](https://hoonably.github.io/cse-archive/vsco.pdf).
-You can open the [Gradient Optimizer report](https://hoonably.github.io/cse-archive/gradient-optimizer.pdf).
-
 ## Lecture
 
 You can go [here](https://naver.me/xvCx35YO) to see the lecture slides.

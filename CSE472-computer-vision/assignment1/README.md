@@ -1,7 +1,3 @@
-## Report
-
-You can open the [BoW-CNN report](https://hoonably.github.io/cse-archive/bow-cnn.pdf).
-
 ## Setup
 
 ### Create Conda Environment

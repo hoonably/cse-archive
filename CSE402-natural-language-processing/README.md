@@ -12,10 +12,9 @@ Archive for CSE402 Natural Language Processing assignments, project work, and st
 | practice | [practice.pdf](practice.pdf) | Practice material. |
 | exam | [past_exam.pdf](past_exam.pdf) | Past exam material. |
 
-## Documents
+## Project Pages
 
-- [ConstraintRAG report](https://hoonably.github.io/cse-archive/constraint-rag.pdf)
-- [Seq2Seq assignment report](https://hoonably.github.io/cse-archive/seq2seq.pdf)
+- [ConstraintRAG](https://jeonghoonpark.com/project/constraint-rag)
 
 ## Lecture
 

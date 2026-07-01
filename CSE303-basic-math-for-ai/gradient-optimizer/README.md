@@ -2,10 +2,6 @@
 
 A small optimizer comparison assignment for two-dimensional differentiable loss landscapes.
 
-## Report
-
-You can open the [PDF report](https://hoonably.github.io/cse-archive/gradient-optimizer.pdf).
-
 This assignment implements and compares:
 - Momentum
 - RMSProp

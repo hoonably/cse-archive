@@ -1,10 +1,7 @@
 # PIGG
 PIGG: Personalized Interactive GUI Grounding
 
-## Documents
-
-- [Final presentation](https://hoonably.github.io/cse-archive/pigg.pdf)
-- [Project proposal](https://hoonably.github.io/cse-archive/pigg_proposal.pdf)
+Project Page: https://jeonghoonpark.com/project/pigg
 
 ## 🎯 Performance Highlights
 

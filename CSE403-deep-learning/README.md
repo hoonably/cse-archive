@@ -9,9 +9,9 @@ Archive for CSE403 Deep Learning project and study materials.
 | project | [PIGG](PIGG/) | Personalized Interactive GUI Grounding using Qwen3-VL. |
 | solution | [quiz_solution.pdf](quiz_solution.pdf) | Quiz solution material. |
 
-## Documents
+## Project Pages
 
-You can view the PIGG [final presentation](https://hoonably.github.io/cse-archive/pigg.pdf) and [project proposal](https://hoonably.github.io/cse-archive/pigg_proposal.pdf).
+- [PIGG](https://jeonghoonpark.com/project/pigg)
 
 ## Lecture
 

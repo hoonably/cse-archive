@@ -8,15 +8,15 @@ Archive for CSE465 Mobile Computing projects and study materials.
 |---|---|---|
 | project | [HARmony](HARmony/) | iOS human activity recognition app using accelerometer and gyroscope data. |
 | project | [doYOLOngo](doYOLOngo/) | iOS real-time object detection app with voice-driven search. |
-| project | [UbiClaw](UbiClaw/) | macOS benchmarking tool for measuring LLM inference interference with foreground app responsiveness. |
+| project | [UbiClaw](UbiClaw/) | macOS SLO-aware benchmark and polite LLM controller for foreground app responsiveness. |
 | summary | [summary.pdf](summary.pdf) | Personal course summary. |
 | quiz | [quiz.pdf](quiz.pdf) | Quiz material. |
 
-## Documents
+## Project Pages
 
-- [HARmony report](https://hoonably.github.io/cse-archive/harmony.pdf) ([local PDF](HARmony/report.pdf))
-- [doYOLOngo report](https://hoonably.github.io/cse-archive/doyolongo.pdf) ([local PDF](doYOLOngo/report.pdf))
-- [UbiClaw report](https://hoonably.github.io/cse-archive/ubiclaw.pdf) ([local PDF](UbiClaw/report.pdf))
+- [HARmony](https://jeonghoonpark.com/project/harmony)
+- [doYOLOngo](https://jeonghoonpark.com/project/doYOLOngo)
+- [UbiClaw](https://jeonghoonpark.com/project/ubiclaw)
 
 ## Lecture
 

@@ -2,10 +2,6 @@
 
 A lightweight confidence-style bandit strategy that achieved strong empirical regret.
 
-## Report
-
-You can open the [PDF report](https://hoonably.github.io/cse-archive/vsco.pdf).
-
 VSCO uses:
 - variance-scaled confidence bonuses,
 - confidence-overlap pruning,

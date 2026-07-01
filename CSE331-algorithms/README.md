@@ -11,10 +11,10 @@ Archive for CSE331 Algorithms projects and study materials.
 | summary | [summary.pdf](summary.pdf) | Personal course summary. |
 | solution | [final_solution.pdf](final_solution.pdf) | Final exam solution material. |
 
-## Documents
+## Project Pages
 
-- [SortingAlgorithm report](https://hoonably.github.io/cse-archive/sorting-algorithm.pdf)
-- [TravelingSalesman report](https://hoonably.github.io/cse-archive/traveling-salesman.pdf)
+- [SortingAlgorithm](https://jeonghoonpark.com/project/sorting-algorithm)
+- [TravelingSalesman](https://jeonghoonpark.com/project/traveling-salesman)
 
 ## Lecture
 
