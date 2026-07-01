@@ -1,13 +1,8 @@
 # UbiClaw
 
-
-<a href="https://github.com/hoonably/cse-archive/tree/main/CSE465-mobile-computing/UbiClaw"><img src="https://img.shields.io/static/v1?label=Project&message=Code&color=24292f"></a>
-<a href="https://github.com/user-attachments/assets/bdf7fbd3-572e-4c91-9000-89634bc16d86"><img src="https://img.shields.io/badge/Project-Video-2ea44f?logo=video&logoColor=white"></a>
-
+Project Page: https://jeonghoonpark.com/project/ubiclaw
 
 A macOS SLO-aware benchmarking and polite LLM control tool for Apple Silicon. Run controlled UI workloads alongside llama.cpp inference, track foreground SLO pressure, then apply throttling/recovery policies with Xcode Instruments signposts and CSV logs.
-
-Project Page: https://jeonghoonpark.com/project/ubiclaw
 
 https://github.com/user-attachments/assets/bdf7fbd3-572e-4c91-9000-89634bc16d86
 

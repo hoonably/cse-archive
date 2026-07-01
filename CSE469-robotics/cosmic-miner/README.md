@@ -1,10 +1,10 @@
 # CosmicMiner
 
+Project Page: https://jeonghoonpark.com/project/cosmicminer-robotics
+
 Robotics control and multi-agent exploration projects for CSE469: Introduction to Robotics, implemented on top of the CosmicMiner simulation framework.
 
 https://github.com/user-attachments/assets/59b4587c-8ea5-40d2-82bc-0040ec75b10e
-
-Project Page: https://jeonghoonpark.com/project/cosmicminer-robotics
 
 ## Overview
 

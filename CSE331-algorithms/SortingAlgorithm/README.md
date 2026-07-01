@@ -1,18 +1,16 @@
 # 🔢 Sorting Algorithm Benchmark Project
 
-> A comparative study of 12 classical and modern sorting algorithms  
-> 📊 Performance • 🧠 Memory • 🧩 Stability • ✅ Accuracy
+Project Page: https://jeonghoonpark.com/project/sorting-algorithm
 
----
-
-## 🔥 Key Highlights
+A C++ benchmark of 12 classical and modern sorting algorithms across runtime, memory usage, stability, and input sensitivity.
 
 <img src="./test_algo/results/compare/random.png" alt="Performance Chart" width="600">
+
+## 🔥 Key Highlights
 
 - 🥇 **Fastest Algorithm**: Tim Sort (0.0407s on 10⁶ elements)
 - ✅ **Most Stable**: Merge, Tim, Insertion, Bubble
 - 🧠 **Memory Efficient**: In-place methods (Quick, Heap, Selection)
-- 🧪 Full writeup: [Project Page](https://jeonghoonpark.com/project/sorting-algorithm)
 
 ---
 
@@ -27,7 +25,6 @@ Goals:
 - Understand sensitivity to input order and data types
 
 ---
-
 
 ## 📁 Directory Structure
 
@@ -197,7 +194,3 @@ Results are stored in the `results/` directory.
   → Minor accuracy drops (~1%) on large random inputs
 
 ---
-
-## 📎 Reference
-
-Project Page: https://jeonghoonpark.com/project/sorting-algorithm

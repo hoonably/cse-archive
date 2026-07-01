@@ -1,10 +1,8 @@
 # HARmony ✨
 
-> 🥇 Best Award - Ranked 1st in the course.
+Project Page: https://jeonghoonpark.com/project/harmony
 
 HARmony is a high-performance, real-time Human Activity Recognition (HAR) application for iOS. It uses built-in smartphone sensors (accelerometer & gyroscope) to classify human activities like walking, climbing stairs, and moonwalking.
-
-Project Page: https://jeonghoonpark.com/project/harmony
 
 https://github.com/user-attachments/assets/8f2721d0-d26c-4be7-a1b5-bb688907dcb5
 
@@ -14,6 +12,8 @@ https://github.com/user-attachments/assets/8f2721d0-d26c-4be7-a1b5-bb688907dcb5
 </p>
 
 Sensor previews from the analysis pipeline show synchronized accelerometer and gyroscope patterns across representative activity groups.
+
+> 🥇 Best Award - Ranked 1st in the course.
 
 ## Key Features
 

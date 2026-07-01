@@ -1,19 +1,20 @@
 # 🗺️ Traveling Salesman Problem (TSP) Solver
 
----
+Project Page: https://jeonghoonpark.com/project/traveling-salesman
 
-## 🧠 Highlights
+A C++ TSP solver project comparing exact, approximation, local-search, and flow-based heuristic methods across multiple datasets.
+
 <p float="left"> <img src="./tour_image/a280/Flow_kNN-a280.png" alt="Flow_kNN-a280" width="48%" /> <img src="./tour_image/a280/Flow_kNN(+2opt)-a280.png" alt="Flow_kNN(+2opt)-a280" width="48%" /> </p>
 
 <p float="left"> <img src="./tour_image/mona_lisa100K/Flow_kNN-mona_lisa100K.png" alt="Flow_kNN-mona_lisa100K" width="48%" /> <img src="./tour_image/mona_lisa100K/MST-mona_lisa100K.png" alt="MST-mona_lisa100K" width="48%" /> </p>
+
+## 🧠 Highlights
 
 - 🧭 Exact Method: Held-Karp for small instances (n ≤ 20)
 - ⚡ Fastest Practical: Greedy + 2-opt (fast + high-quality)
 - 🔁 New Hybrid Algorithm: Flow-based initialization + 2-opt refinement
 - 📈 Notable Outlier: MST shows poor scaling on mona_lisa100K due to rigid traversal and long edges
 - 🧪 Evaluation: runtime, quality, scalability on 5 datasets
-
-
 
 ---
 
@@ -130,7 +131,3 @@ Use `_visualize_tsp_paths.py` to batch regenerate or customize.
   * mona\_lisa100K (100,000 cities)
 
 ---
-
-## 📎 Reference
-
-Project Page: https://jeonghoonpark.com/project/traveling-salesman

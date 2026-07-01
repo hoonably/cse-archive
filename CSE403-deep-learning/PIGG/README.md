@@ -1,7 +1,8 @@
 # PIGG
-PIGG: Personalized Interactive GUI Grounding
 
 Project Page: https://jeonghoonpark.com/project/pigg
+
+PIGG is a Personalized Interactive GUI Grounding project that adapts Qwen3-VL to user-specific GUI interaction patterns.
 
 ## 🎯 Performance Highlights
 
