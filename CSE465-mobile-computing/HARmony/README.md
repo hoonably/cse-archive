@@ -6,7 +6,7 @@ HARmony is a high-performance, real-time Human Activity Recognition (HAR) applic
 
 Project Page: https://jeonghoonpark.com/project/harmony
 
-https://github.com/hoonably/cse-archive/releases/download/assets-v1/HARmony.mp4
+https://github.com/user-attachments/assets/8f2721d0-d26c-4be7-a1b5-bb688907dcb5
 
 <p align="center">
   <img src="analysis/report_figures/raw_signals_group1.png" alt="Raw signal preview group 1" width="49%">
